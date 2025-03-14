@@ -1,0 +1,31 @@
+body {
+    background-color: rgba(255, 255, 255, 0.494);
+    text-align: center;
+}
+
+h1{
+    color: rgb(0, 0, 0);
+    background-color: rgb(129, 10, 129);
+    font-family: 'Times New Roman', Times, serif; 
+}
+
+h5{
+    color: rgb(136, 139, 74);
+    font-size: xx-large;
+}
+
+p{
+    background-color: rgb(241, 241, 241);
+    color: rgb(17, 17, 17);
+    font-size: x-large;
+}
+
+#judul1{
+    color: rgb(0, 47, 255);
+}
+#judul2{
+    color: rgb(0, 47, 255);
+}
+#judul3{
+    color: rgb(0, 47, 255);
+}
